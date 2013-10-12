@@ -12,6 +12,6 @@
 
 My First Number is: ${requestScope.math.firstNumber}
 My Second Number is:${requestScope.math.secondNumber}
-My Total is: 
+My Total is: dsads
 </body>
 </html>
